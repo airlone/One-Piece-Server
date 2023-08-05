@@ -1,7 +1,7 @@
 # One-Piece-Server
 a free private one piece server/api. You can only watch the latest episodes of one piece with this. I made this because gear 5 might break the internet ngl.
 
-# Note: This might not work sometimes. I have never worked with Beautifulsoup before, so this is just a simple script I wrote after reading the docs for the first time. 
+## Note: This might not work sometimes. I have never worked with Beautifulsoup before, so this is just a simple script I wrote after reading the docs for the first time. When you try to play the episode, there will be a lot of popups and redirects, because it's using the gogoanime iframe method. Please user a vpn and antivirus.
 
 # What to do?
 - if you are using repl it:
